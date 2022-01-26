@@ -6,7 +6,7 @@ Here we provide files associated with [our preprint](https://doi.org/10.1101/202
 4. R script used to tabulate compositional distances between samples (`plotDistances.R`)
 5. R script used for plotting and statistics (`Plots_paper_V6.R`)
 
-*Raw sequencing data have been deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number PRJEB49145 (https://ebi.ac.uk/ena/browser/view/PRJEB49145)
+*Raw sequencing data have been deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number PRJEB49145 (https://ebi.ac.uk/ena/browser/view/PRJEB49145). It will be available upon acceptance in a peer-reviewed journal.
 
 If you use this data in a publication, please cite as:
 
