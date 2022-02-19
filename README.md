@@ -4,7 +4,7 @@ Here we provide files associated with [our preprint](https://doi.org/10.1101/202
 2. Primers (F or R) used as inputs in cutadapt to demultiplex reads amplicon-wise (`qiaseq_primers_fwd-x.fa` and `qiaseq_primers_rev-x.fa`)
 3. R script used to detect contaminants (`decontam.R`)
 4. R script used to tabulate compositional distances between samples (`plotDistances.R`)
-5. R script used for plotting and statistics (`Plots_paper_V6.R`)
+5. R scriptS used for plotting and statistics (`Plots_paper_V8.R` and`Plots_paper_V8_ncbi+gg.R`)
 
 *Raw sequencing data have been deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number PRJEB49145 (https://ebi.ac.uk/ena/browser/view/PRJEB49145). It will be available upon acceptance in a peer-reviewed journal.
 
